@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import './home.scss'
 import { MovieService } from '../../api/MovieService'
-import { get } from 'react-hook-form'
 import MovieCard from '../../components/MovieCard/MovieCard'
 
 
