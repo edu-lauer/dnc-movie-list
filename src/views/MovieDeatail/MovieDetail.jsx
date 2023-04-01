@@ -49,7 +49,7 @@ const MovieDetail = () => {
                         </div>
                     </div>
                     <Link to={"/"} className="MovieDetail__button">
-                        Voltar
+                        Back
                     </Link>
                 </div>
             </div>

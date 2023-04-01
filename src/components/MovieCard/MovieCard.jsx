@@ -12,7 +12,7 @@ const MovieCard = ({ movieProp }) => {
 
             <div className='movie-description'>
                 <h3>{''}</h3>
-                <Link to={`/movie/${movieProp.id}`} className='btn-details'>Ver Detalhes</Link>
+                <Link to={`/movie/${movieProp.id}`} className='btn-details'>Details</Link>
             </div>
         </div>
         
